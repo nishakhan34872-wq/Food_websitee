@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI",
+  "description": "AI-powered scam, fake job offer, and suspicious message detector with instant risk analysis, company verification, and safety reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
